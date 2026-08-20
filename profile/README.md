@@ -7,7 +7,7 @@
 - краткие саммари и action items
 - протоколы встреч автоматически
 - предложенные ответы в процессе диалога
-- единый опыт для macOS / Windows
+- единый опыт для macOS / Windows / web / iOS / Android
 
 <p align="center">
   <a href="https://speechara.ai"><img src="https://img.shields.io/badge/Website-speechara.ai-0d9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
@@ -15,11 +15,42 @@
   <a href="mailto:info@speechara.ai"><img src="https://img.shields.io/badge/Contact-info@speechara.ai-0066cc?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" /></a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Speechara-AI/.github/main/profile/assets/multi-platform.jpg" alt="Speechara on web, macOS, Windows, iPhone and Android" width="100%" />
+</p>
+
 ## Что нового
 
 - ✅ **v0.8.2** — ускорена работа живой транскрипции и улучшен быстрый перевод
 - ✅ **v0.8.1** — новый формат экспорта протоколов встреч
 - ✅ **v0.8.0** — обновлён onboarding и исправлены UX-проблемы
+
+## Возможности продукта
+
+| Возможность | Что получает пользователь |
+|---|---|
+| 🎙️ Живая транскрипция | Видит разговор и перевод в реальном времени |
+| ✨ Саммари и протокол | Получает ключевые пункты, решения, action items и дедлайны |
+| 🗂️ История встреч | Хранит, ищет и экспортирует прошлые разговоры |
+| 👤 Профиль и настройки | Управляет темой, языками, подпиской и безопасностью |
+
+<details>
+<summary><strong>Открыть обзор интерфейса</strong></summary>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Speechara-AI/.github/main/profile/assets/dashboard.jpg" alt="Speechara live transcription and translation" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Speechara-AI/.github/main/profile/assets/summary.jpg" alt="Speechara summary and action items" width="49%" />
+  <img src="https://raw.githubusercontent.com/Speechara-AI/.github/main/profile/assets/history.jpg" alt="Speechara meeting history" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Speechara-AI/.github/main/profile/assets/profile.jpg" alt="Speechara profile and settings" width="100%" />
+</p>
+
+</details>
 
 ## Релизы по продуктам
 
