@@ -9,7 +9,7 @@
 - краткие саммари и action items
 - протоколы встреч автоматически
 - предложенные ответы в процессе диалога
-- единый опыт для macOS / Windows / web / iOS / Android
+- единый опыт для web / macOS / Windows
 
 <p align="center">
   <a href="https://speechara.ai"><img src="https://img.shields.io/badge/Website-speechara.ai-0d9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
