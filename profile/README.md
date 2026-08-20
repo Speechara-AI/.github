@@ -1,5 +1,7 @@
 # 🎙️ Speechara.AI
 
+<p align="right"><a href="https://github.com/Speechara-AI/.github/blob/main/profile/README.en.md">English version</a></p>
+
 **Speechara.AI** — AI помощник для живого слушания: расшифровка, перевод и структурирование разговора прямо во время встречи.
 
 Мы помогаем командам быстрее превращать разговоры в рабочие решения:
@@ -18,6 +20,14 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Speechara-AI/.github/main/profile/assets/multi-platform.jpg" alt="Speechara on web, macOS, Windows, iPhone and Android" width="100%" />
 </p>
+
+## Скачать и попробовать
+
+| Платформа | Действие | Дополнительно |
+|---|---|---|
+| Web | [Открыть приложение](https://app.speechara.ai/login?mode=register) | Работает в браузере |
+| macOS | [Скачать Speechara.dmg](https://updates.speechara.ai/download/Speechara.dmg) | [Репозиторий](https://github.com/Speechara-AI/speechara_mac_app) |
+| Windows | [Скачать установщик](https://updates.speechara.ai/windows/Speechara-win-Setup.exe) | [Репозиторий](https://github.com/Speechara-AI/speechara_win_app) |
 
 ## Что нового
 
