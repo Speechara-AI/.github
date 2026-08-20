@@ -62,7 +62,12 @@
 
 ## Где публикуем обновления
 
-- [Новости](https://github.com/orgs/Speechara-AI/discussions/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8) — официальные новости и объявления\n- [Релизы](https://github.com/orgs/Speechara-AI/discussions/categories/%D1%80%D0%B5%D0%BB%D0%B8%D0%B7%D1%8B) — новые версии и заметки к ним\n- [Обратная связь](https://github.com/orgs/Speechara-AI/discussions/categories/%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D1%81%D0%B2%D1%8F%D0%B7%D1%8C) — идеи и предложения\n- [Поддержка](https://github.com/orgs/Speechara-AI/discussions/categories/%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0) — вопросы по установке и использованию\n- [Все обсуждения](https://github.com/orgs/Speechara-AI/discussions) — общая лента сообщества\n
+- [Новости](https://github.com/orgs/Speechara-AI/discussions/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8) — официальные новости и объявления
+- [Релизы](https://github.com/orgs/Speechara-AI/discussions/categories/%D1%80%D0%B5%D0%BB%D0%B8%D0%B7%D1%8B) — новые версии и заметки к ним
+- [Обратная связь](https://github.com/orgs/Speechara-AI/discussions/categories/%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D1%81%D0%B2%D1%8F%D0%B7%D1%8C) — идеи и предложения
+- [Поддержка](https://github.com/orgs/Speechara-AI/discussions/categories/%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0) — вопросы по установке и использованию
+- [Все обсуждения](https://github.com/orgs/Speechara-AI/discussions) — общая лента сообщества
+
 ## Как с нами связаться
 
 - Сайт: https://speechara.ai
